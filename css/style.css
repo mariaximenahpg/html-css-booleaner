@@ -1,0 +1,24 @@
+.banner{
+    background-color: #4EA0FF;
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat-x;
+    background-size: contain;
+    
+}
+
+#logo{
+    inline-size: 200px;   
+}
+
+h6{
+ color: #808080;
+}
+span{
+ color: #20A9E5;
+}
+
+#titolo{
+ color: #808080;
+ font-size: 6px;
+}
+ 
