@@ -21,4 +21,16 @@ span{
  color: #808080;
  font-size: 6px;
 }
- 
+
+.didascalia{
+    font-size: 6px;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.scuro{
+    background-color: #B1E5F2;
+}
